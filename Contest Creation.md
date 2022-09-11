@@ -4,7 +4,22 @@ Login to hackerrank and go to [administration](https://www.hackerrank.com/admini
 
 ## Contest Details
 
-Add all the necessary [details](https://shorturl.at/bnux6) and click **get started**. Add all the id's of the moderators in the **Moderators** tab.
+Add all the necessary <details open>
+<summary>Details</summary>
+<br>
+Rules
+  - Use of any unfair means is strictly prohibited. The solutions would be checked manually, and any misconduct will lead to immediate disqualification from this contest, and any other contests organized by IIT Guwahati in future.
+- Copying code from external websites (GFG, StackOverflow, etc...) is permitted, but **the link of the webpage should be present as a comment in your code**. This is very important, for not following the above rule will be counted under unfair means.
+- Any doubts related to problems or the contest will be adressed through a discord channel.
+- **We highly encourage you to read all the problems**.
+ Scoring
+  - Each challenge has a pre-determined score.
+- You will have **2 hours and 30 minutes** to solve **8** problems.
+- **Scoring distribution: $100−200−250−400−450−500-650-800$**.
+- A participant get full score only if all the testcases to the problem passes.
+- If a participant submits more than one solution per challenge, then the participant’s score will reflect the highest score achieved. 
+- Participants are ranked by score. If two or more participants achieve the same score, then the tie is broken by the total time taken to submit the solution having the maximum score.
+</details> and click **get started**. Add all the id's of the moderators in the **Moderators** tab.
 
 ## Challenges
 
