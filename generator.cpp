@@ -10,7 +10,11 @@ ifstream fin;
 ofstream fout;
 
 void generateTC(int testcases) {
-//write the logic for each testcase here
+	// for(long i = 2; i <= n; ++i) 
+     	// fout << (rand() % (i - 1) + 1) << " " << i << "\n";
+	// above is logic for a tree with n vertices.
+	
+	//write the logic for each testcase here
 
 }
 void generate(int file) {
